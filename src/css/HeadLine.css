@@ -1,0 +1,15 @@
+.header {
+  color: aliceblue;
+}
+
+.header-headline {
+  list-style: none;
+  font-weight: 600;
+  font-size: 48px;
+  padding-bottom: 25px;
+  line-height: 1em;
+}
+.header-underline {
+  list-style: none;
+  font-size: 16px;
+}
